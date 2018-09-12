@@ -2,7 +2,7 @@
 
 
 import commands
-
+# uses the ls command in linux to show whats in folder 
 output = commands.getoutput('ls')
 print output
 
