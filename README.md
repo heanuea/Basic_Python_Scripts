@@ -15,8 +15,8 @@
 
 **List of Programs Table of contents**
 
-- [Convert](#convert)
-- cycle
+- [Convert](#1.convert)
+- [cycle](#2.cycle)
 - Google Command Line script
 - imdb script
 - Internet 
@@ -30,7 +30,7 @@
 
 ---
 
-## Convert
+## 1.Convert
 > Here is a program to Convert a string into a list 
 
 ```Python
@@ -44,4 +44,18 @@ str1 = "python is love Python is life"
 
 print(Convert(str1)) 
 ```
+---
 
+## 2.cycle
+> A small program that fires a list and cycles through it til it hits it range 
+
+```Python 
+from itertools import cycle
+
+list1 = [1,2,3]
+cy = cycle(list1)
+
+for index in range(5):
+    print(next(cy))
+    
+```
