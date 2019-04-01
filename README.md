@@ -1,6 +1,28 @@
-# **__Basic_Python_Scripts__**
+<a href="http://fvcproductions.com"><img src="https://www.python.org/static/opengraph-icon-200x200.png" title="python" alt="python"></a>
 
-This repo consists of a few Python scripts which il be adding every day or so they will be getting more advanced in the weeks passing this is just getting me used to writing python scripts and working with python on linux.
+<!-- added link for image above  -->
 
-Il will be strting some write ups on the scripts as i go 
+
+# Python Scripts and programs 
+
+> Here is some programs and scripts written in python.
+
+> There will be a short discription on each program. 
+
+> Feel free to use or clone ;)
+
+**List of Programs Table of contents**
+
+- Convert
+- cycle
+- Google Command Line script
+- imdb script
+- Internet 
+- Loops script
+- Ls Name
+- Pandas 
+- Port scanner
+- Time.
+- Untitled
+- Version 
 
