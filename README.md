@@ -11,9 +11,11 @@
 
 > Feel free to use or clone ;)
 
+---
+
 **List of Programs Table of contents**
 
-- Convert
+- [Convert](#convert)
 - cycle
 - Google Command Line script
 - imdb script
@@ -25,4 +27,21 @@
 - Time.
 - Untitled
 - Version 
+
+---
+
+## Convert
+> Here is a program to Convert a string into a list 
+
+```Python
+#Comment here 
+def Convert(string):
+    li = list(string.split(" "))
+    return li
+
+
+str1 = "python is love Python is life"
+
+print(Convert(str1)) 
+```
 
