@@ -6,10 +6,8 @@
 # Python Scripts and programs 
 
 > Here is some programs and scripts written in python.
-
-> There will be a short discription on each program. 
-
-> Feel free to use or clone ;)
+There will be a short discription on each program. 
+Feel free to use or clone ;)
 
 ---
 
