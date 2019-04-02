@@ -31,7 +31,7 @@ Feel free to use or clone ;)
 ## 1.Convert
 > Here is a program to Convert a string into a list 
 
-```Python
+```python
 #Comment here 
 def Convert(string):
     li = list(string.split(" "))
