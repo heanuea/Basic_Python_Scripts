@@ -17,7 +17,7 @@ Feel free to use or clone ;)
 - [cycle](#2.cycle)
 - [Google Command Line script](#3.Googlescript)
 - [imdb script](#4.IMDB)
-- Internet 
+- [Internet](#5.Internet) 
 - Loops script
 - Ls Name
 - Pandas 
@@ -127,7 +127,7 @@ response = json.load(urllib2.urlopen(request))
 print json.dumps(response,indent=2)
 
 ```
-<<<<<<< HEAD
+---
 
 ## 5.Internet
 >A small program to see if your connected to the internet 
@@ -145,5 +145,4 @@ def internetConnection():
 
 internetConnection()
 ```
-=======
->>>>>>> 080f8ff747cfa151593e571268ea40c43a25c257
+---
