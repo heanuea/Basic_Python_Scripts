@@ -1,6 +1,6 @@
 import sys, socket
 
-target = sys.argv[1]
+ target = sys.argv[1]
 minport = int(sys.argv[2])
 maxport = int(sys.argv[3]) 
 

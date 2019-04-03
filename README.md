@@ -127,3 +127,20 @@ response = json.load(urllib2.urlopen(request))
 print json.dumps(response,indent=2)
 
 ```
+
+## 5.Internet
+>A small program to see if your connected to the internet 
+
+
+```python
+from requests import get
+from requests import exceptions
+def internetConnection():
+    try:
+        get('http://Google.com', timeout = 3)
+        print('Connected')
+    except exceptions.ConnectionError:
+        print('not connected') 
+
+internetConnection()
+```
