@@ -31,7 +31,7 @@ Feel free to use or clone ;)
 ## 1.Convert
 > Here is a program to Convert a string into a list 
 
-```Python
+```python
 #Comment here 
 def Convert(string):
     li = list(string.split(" "))
@@ -127,6 +127,7 @@ response = json.load(urllib2.urlopen(request))
 print json.dumps(response,indent=2)
 
 ```
+<<<<<<< HEAD
 
 ## 5.Internet
 >A small program to see if your connected to the internet 
@@ -144,3 +145,5 @@ def internetConnection():
 
 internetConnection()
 ```
+=======
+>>>>>>> 080f8ff747cfa151593e571268ea40c43a25c257
