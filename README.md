@@ -160,3 +160,22 @@ for i in range(5):
 ```
 
 ---
+### 7. lsname 
+> A program the makes a list in in linux 
+
+```Python 
+#!/usr/bin/python3
+
+
+import commands
+# uses the ls command in linux to show whats in folder 
+output = commands.getoutput('ls')
+print output
+
+#prints out the number of d are in there in folder 
+num = output.count('d')
+print num
+
+```
+
+---
