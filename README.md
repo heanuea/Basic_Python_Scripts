@@ -146,3 +146,17 @@ def internetConnection():
 internetConnection()
 ```
 ---
+
+### 6.Loops
+> A small program that goes through loops 
+
+```Python 
+
+sum = 0 
+for i in range(5):
+    sum = sum + i 
+    print sum ￼
+
+```
+
+---
