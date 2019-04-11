@@ -7,3 +7,4 @@ XYZ_web = {'Day':[1,2,3,4,5,6], "visitors":[1000,500,900,4000,300,350], 'Bounce'
 df= pd.DataFrame(XYZ_web)
 
 print(df) 
+

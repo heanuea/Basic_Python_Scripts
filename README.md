@@ -18,8 +18,8 @@ Feel free to use or clone ;)
 - [Google Command Line script](#3.Googlescript)
 - [imdb script](#4.IMDB)
 - [Internet](#5.Internet) 
-- Loops script
-- Ls Name
+- [Loops script](#6.Loops)
+- [Ls Name](#7.Ls Name)
 - Pandas 
 - Port scanner
 - Time.
